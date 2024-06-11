@@ -1,5 +1,7 @@
-To Start : npm start
+Joke Generator using JokeApi.
+(Api integration practice)
 
-Runs the app in the development mode.\
+To Start : npm start
+Runs the app in the development mode.
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
